@@ -1,2 +1,1 @@
-# corporate-finance
-
+# Technical specifications (Stage 4)
