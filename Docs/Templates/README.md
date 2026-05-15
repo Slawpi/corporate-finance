@@ -1,2 +1,2 @@
-# corporate-finance
+# ← Place performance-ratios-template.xlsx here
 
